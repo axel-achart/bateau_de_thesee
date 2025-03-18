@@ -8,6 +8,7 @@ The repository contains the following files:
 
 - **`bateau_de_thesee.py`** – The main Python script that simulates the Ship of Theseus scenario.
 - **`README.md`** – Project documentation.
+- **`history.txt`** – Stock historic of modifications
 - **`.gitignore`** – Specifies files and directories to be ignored by Git.
 
 ## 🛠️ Technologies Used
